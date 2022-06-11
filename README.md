@@ -1,2 +1,3 @@
 # odin-recipes
-recipe website project odin
+Recipe webiste project with Odin
+Using html i've learned so far to make a website
